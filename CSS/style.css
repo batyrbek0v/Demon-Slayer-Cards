@@ -187,6 +187,9 @@ body{
         left: 0;
         padding: 30px;
     }
+    .card img{
+        left: 3%;
+    }
     .card:hover img{
         top: 52.5%;
         left: 5%;
